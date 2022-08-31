@@ -1,4 +1,3 @@
-import { Typography } from "@mui/material";
 import type { NextPage } from "next";
 import Head from "next/head";
 
@@ -12,7 +11,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main>
-        <Typography variant="h1">DevALMO, YouTube channel</Typography>
+        <h1>DevALMO, YouTube channel</h1>
       </main>
 
       <footer></footer>
